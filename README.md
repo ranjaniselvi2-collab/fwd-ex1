@@ -63,7 +63,7 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-
+D:\fwd\ex1\fwd-ex1\Screenshot1.png
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
