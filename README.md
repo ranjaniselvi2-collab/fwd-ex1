@@ -63,8 +63,10 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-screenshort2025-09-18 161204.png
-screenshort2025-09-18 161215.png
+![alt text](<Screenshot 2025-09-18 161215.png>)
+
+![alt text](<Screenshot 2025-09-18 161204.png>)
+
 
 
 ## RESULT:
