@@ -63,10 +63,8 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-09-18 161215.png>)
-
-![alt text](<Screenshot 2025-09-18 161204.png>)
-
+<img width="1163" height="631" alt="Screenshot 2025-09-18 161204" src="https://github.com/user-attachments/assets/383f3722-68ba-4e7e-b81f-ff290febd8d1" />
+<img width="795" height="251" alt="Screenshot 2025-09-18 161215" src="https://github.com/user-attachments/assets/02204110-3742-434e-be3d-486788a0b717" />
 
 
 ## RESULT:
